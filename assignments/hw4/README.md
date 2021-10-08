@@ -1,1 +1,1 @@
-s
+*I have two players who scored goals, and using the math.Max function I find a player with a large number of goals, I also translated the output into json format and there is a match time, and there is a tester in a separate file.*
